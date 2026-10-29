@@ -41,12 +41,8 @@
 ## 📊 GitHub 数据 · Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qfcxhh&theme=tokyonight" alt="profile" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qfcxhh&theme=tokyonight" alt="stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qfcxhh&theme=tokyonight" alt="langs" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -55,10 +51,10 @@
 
 ## 🚀 开源项目 · Projects
 
-| 项目 Project | 简介 Description | 技术 Stack |
-|:--|:--|:--|
-| 📈 [**nginxpulse-neo**](https://github.com/qfcxhh/nginxpulse-neo) | 轻量级 Nginx 访问日志分析与可视化面板<br/><sub>Lightweight Nginx access-log analytics dashboard</sub> | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| 📝 [**python-docx**](https://github.com/qfcxhh/python-docx) | python-docx 增强分支，补齐日常文档处理能力<br/><sub>Enhanced fork of python-docx for everyday needs</sub> | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+<p align="center">
+  <a href="https://github.com/qfcxhh/nginxpulse-neo"><img src="./profile/pin-nginxpulse-neo.svg" alt="nginxpulse-neo" /></a>
+  <a href="https://github.com/qfcxhh/python-docx"><img src="./profile/pin-python-docx.svg" alt="python-docx" /></a>
+</p>
 
 ## 🐍 贡献贪吃蛇 · Contribution Snake
 
